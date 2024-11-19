@@ -2,7 +2,6 @@
 layout: post
 title: Mi primer post
 tags: first markdown example
-categories: demo
 ---
 
 This is a paragraph in my first post.
