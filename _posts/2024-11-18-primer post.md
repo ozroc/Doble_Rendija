@@ -1,8 +1,3 @@
----
-created: 2024-11-18T16:51:25+01:00
-modified: 2024-11-18T16:52:35+01:00
-type: Journal
----
 
 ---
 layout: post
